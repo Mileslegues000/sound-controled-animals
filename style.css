@@ -1,0 +1,31 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Permanent Marker', cursive;
+}
+.header_div{
+    background-color: white;
+    color: crimson;
+}
+.header_div p{
+    color: black;
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+.main_div button{
+    margin-top: 50px;
+    font-size: 23px;
+    letter-spacing: 2px;
+    width: 100px;
+}
+
+.footer{
+    width: 100%;
+    font-size: 17px;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: teal;
+    line-height: 3;
+    color: white;
+    text-shadow: 10px 10px 5px black;
+}
